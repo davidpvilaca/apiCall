@@ -1,4 +1,4 @@
-<!--todo exemplificar melhor-->
+Facilitate request promise
 # apiCall
 
 Service [node](http://nodejs.org) to facilitate the request promise front end to back end.
